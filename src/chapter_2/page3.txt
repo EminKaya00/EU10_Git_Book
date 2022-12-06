@@ -1,0 +1,7 @@
+
+1.
+Go to https://github.com/ in a web browser. You can use any web browser to download files.
+2.
+Navigate to the file you want to download. Use the search bar at the top of the page to find the file you want to download and the results will list ...
+3.
+Click Releases (if it's available). You'll see this option on the right side of the browser. 
