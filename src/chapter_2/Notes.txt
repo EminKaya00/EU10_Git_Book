@@ -1,0 +1,6 @@
+
+Git pull, in a nutshell, is a two-part process.
+First, your remote-tracking branch is synced with the “true” branch in the remote repository.
+
+Then, your local branch is compared to the remote-tracking branch
+and receives the new commits so it can catch up to the current state of the remote branch
