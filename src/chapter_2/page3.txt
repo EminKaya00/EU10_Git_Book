@@ -5,3 +5,16 @@ Go to https://github.com/ in a web browser. You can use any web browser to downl
 Navigate to the file you want to download. Use the search bar at the top of the page to find the file you want to download and the results will list ...
 3.
 Click Releases (if it's available). You'll see this option on the right side of the browser. 
+
+
+How to pull from github?
+TLDR
+Find a project you want to contribute to.
+Fork it.
+Clone it to your local system.
+Make a new branch.
+Make your changes.
+Push it back to your repo.
+Click the Compare & pull request button.
+Click Create pull request to open a new pull request.
+
